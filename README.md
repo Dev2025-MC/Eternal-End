@@ -22,7 +22,7 @@
 <li>1.0</li>
 </ul>
 <h1>Does Eternal End Have Screenshot?</h1>
-<p>yes here is 5 screenshot</p>
+<p>yes here is 4 screenshot</p>
 <img src="EternalEnd_MarketingScreenshot_1.jpg">
 <img src="EternalEnd_MarketingScreenshot_2.jpg">
 <img src="EternalEnd_MarketingScreenshot_3.jpg
