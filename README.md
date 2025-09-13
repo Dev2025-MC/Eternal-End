@@ -1,5 +1,5 @@
 <h1>ETERNAL END</h1>
-<img src"maxresdefault.jpg">
+<img src="maxresdefault.jpg">
 <p>Explore a reimagined End Dimension like no other! Completely redesigned with endless new terrains and immersive biomes that go beyond anything you have seen before.
 • 6 new Biomes
 • Terrain & Structures
